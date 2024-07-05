@@ -17,4 +17,9 @@ Storing and retrieving the last value entered by the user.
 Output:
 There are five buttons on this HTML page for the user to click and store the directions in the database.
 
+![Screenshot 2024-07-05 225207](https://github.com/LujainAlsulami/control_panel/assets/166108783/1ec8e7f6-962e-434f-b5a3-926cdac9b575)
+
+
+
+
 This page presents the last value entered by the user from the database.
