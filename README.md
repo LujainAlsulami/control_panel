@@ -11,6 +11,8 @@ Building the robot database and creating a table with a name controlpanel.
 ![Screenshot 2024-07-05 230316](https://github.com/LujainAlsulami/control_panel/assets/166108783/907b13d3-0ad6-40b2-a933-282aae136bc6)
 
 
+
+
 Step three: 
 Establishing a connection between the database and the HTML page.
 
